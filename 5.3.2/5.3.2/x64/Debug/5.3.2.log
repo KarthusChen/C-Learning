@@ -1,0 +1,12 @@
+﻿  5.2.2.cpp
+C:\Users\c\source\repos\5.3.2\5.3.2\5.2.2.cpp(23,43): warning C4311: “类型强制转换”: 从“int (*)[3]”到“int”的指针截断
+C:\Users\c\source\repos\5.3.2\5.3.2\5.2.2.cpp(23,43): warning C4302: “类型强制转换”: 从“int (*)[3]”到“int”截断
+C:\Users\c\source\repos\5.3.2\5.3.2\5.2.2.cpp(24,49): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+C:\Users\c\source\repos\5.3.2\5.3.2\5.2.2.cpp(24,49): warning C4302: “类型强制转换”: 从“int *”到“int”截断
+C:\Users\c\source\repos\5.3.2\5.3.2\5.2.2.cpp(25,49): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+C:\Users\c\source\repos\5.3.2\5.3.2\5.2.2.cpp(25,49): warning C4302: “类型强制转换”: 从“int *”到“int”截断
+C:\Users\c\source\repos\5.3.2\5.3.2\5.2.2.cpp(27,55): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+C:\Users\c\source\repos\5.3.2\5.3.2\5.2.2.cpp(27,55): warning C4302: “类型强制转换”: 从“int *”到“int”截断
+C:\Users\c\source\repos\5.3.2\5.3.2\5.2.2.cpp(28,55): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+C:\Users\c\source\repos\5.3.2\5.3.2\5.2.2.cpp(28,55): warning C4302: “类型强制转换”: 从“int *”到“int”截断
+  5.3.2.vcxproj -> C:\Users\c\source\repos\5.3.2\x64\Debug\5.3.2.exe

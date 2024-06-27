@@ -1,0 +1,11 @@
+﻿  职工管理系统.cpp
+C:\Users\c\source\repos\职工管理系统\职工管理系统\职工管理系统.cpp(10,15): error C2259: 'Employee': cannot instantiate abstract class
+C:\Users\c\source\repos\职工管理系统\职工管理系统\employee.h(6,7): message : see declaration of 'Employee'
+C:\Users\c\source\repos\职工管理系统\职工管理系统\职工管理系统.cpp(10,15): message : due to following members:
+C:\Users\c\source\repos\职工管理系统\职工管理系统\职工管理系统.cpp(10,15): message : 'void Worker::showInfo(void)': is abstract
+C:\Users\c\source\repos\职工管理系统\职工管理系统\worker.h(10,15): message : see declaration of 'Worker::showInfo'
+C:\Users\c\source\repos\职工管理系统\职工管理系统\职工管理系统.cpp(10,23): error C2259: 'Employee': cannot instantiate abstract class
+C:\Users\c\source\repos\职工管理系统\职工管理系统\employee.h(6,7): message : see declaration of 'Employee'
+C:\Users\c\source\repos\职工管理系统\职工管理系统\职工管理系统.cpp(10,23): message : due to following members:
+C:\Users\c\source\repos\职工管理系统\职工管理系统\职工管理系统.cpp(10,23): message : 'void Worker::showInfo(void)': is abstract
+C:\Users\c\source\repos\职工管理系统\职工管理系统\worker.h(10,15): message : see declaration of 'Worker::showInfo'

@@ -1,0 +1,3 @@
+name:Linco
+gender:female
+age:35

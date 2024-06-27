@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "练习案例：水仙花数", "练习案例：水仙花数\练习案例：水仙花数.vcxproj", "{CEDAE01A-6799-474A-AA33-1E5FAD0615E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEDAE01A-6799-474A-AA33-1E5FAD0615E5}.Debug|x64.ActiveCfg = Debug|x64
+		{CEDAE01A-6799-474A-AA33-1E5FAD0615E5}.Debug|x64.Build.0 = Debug|x64
+		{CEDAE01A-6799-474A-AA33-1E5FAD0615E5}.Debug|x86.ActiveCfg = Debug|Win32
+		{CEDAE01A-6799-474A-AA33-1E5FAD0615E5}.Debug|x86.Build.0 = Debug|Win32
+		{CEDAE01A-6799-474A-AA33-1E5FAD0615E5}.Release|x64.ActiveCfg = Release|x64
+		{CEDAE01A-6799-474A-AA33-1E5FAD0615E5}.Release|x64.Build.0 = Release|x64
+		{CEDAE01A-6799-474A-AA33-1E5FAD0615E5}.Release|x86.ActiveCfg = Release|Win32
+		{CEDAE01A-6799-474A-AA33-1E5FAD0615E5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9845931-75BC-4F69-8B90-79E25841982F}
+	EndGlobalSection
+EndGlobal

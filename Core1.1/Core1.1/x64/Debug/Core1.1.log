@@ -1,0 +1,14 @@
+﻿  Core1.1.cpp
+C:\Users\c\source\repos\Core1.1\Core1.1\Core1.1.cpp(15,10): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\c\source\repos\Core1.1\Core1.1\Core1.1.cpp(15,10): warning C4302: 'type cast': truncation from 'int *' to 'int'
+C:\Users\c\source\repos\Core1.1\Core1.1\Core1.1.cpp(16,10): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\c\source\repos\Core1.1\Core1.1\Core1.1.cpp(16,10): warning C4302: 'type cast': truncation from 'int *' to 'int'
+C:\Users\c\source\repos\Core1.1\Core1.1\Core1.1.cpp(17,10): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\c\source\repos\Core1.1\Core1.1\Core1.1.cpp(17,10): warning C4302: 'type cast': truncation from 'int *' to 'int'
+C:\Users\c\source\repos\Core1.1\Core1.1\Core1.1.cpp(18,10): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\c\source\repos\Core1.1\Core1.1\Core1.1.cpp(18,10): warning C4302: 'type cast': truncation from 'int *' to 'int'
+C:\Users\c\source\repos\Core1.1\Core1.1\Core1.1.cpp(19,10): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\c\source\repos\Core1.1\Core1.1\Core1.1.cpp(19,10): warning C4302: 'type cast': truncation from 'int *' to 'int'
+C:\Users\c\source\repos\Core1.1\Core1.1\Core1.1.cpp(20,10): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\c\source\repos\Core1.1\Core1.1\Core1.1.cpp(20,10): warning C4302: 'type cast': truncation from 'int *' to 'int'
+  Core1.1.vcxproj -> C:\Users\c\source\repos\Core1.1\x64\Debug\Core1.1.exe
